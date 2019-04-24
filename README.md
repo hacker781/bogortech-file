@@ -1,0 +1,2 @@
+# indku
+Blog pribadi
